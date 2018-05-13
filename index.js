@@ -13,6 +13,7 @@ function yourAnimal() {
 }
 
 const two = 2
+const n = 453
 
 function add2(n) {
   return n + two
